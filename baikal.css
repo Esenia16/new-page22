@@ -1,0 +1,45 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+#image {
+	float: right;
+	width: 550px;
+	padding-left: 20px;
+}
+#header {
+	float: left;
+	width: 900px;
+	padding-left: 20px;
+}
+#image5 {
+	float: right;
+	width: 550px;
+	padding-left: 20px;
+}
+#header3 {
+	float: right;
+	width: 900px;
+	padding-left: 20px;
+}
+#header4 {
+	float: left;
+	width: 900px;
+	padding-left: 20px;
+}
+#footer {
+	height: 80px; 
+	background-color: #8FBC8F; 
+	margin-bottom: 20px; 
+	border-radius: 2px; 
+	box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
+}
+#pod {
+	height: 80px; /* Высота блока подвала */
+	background-color: #8FBC8F; /* Фон блока подвала */
+	margin-bottom: 10px; /* Отступ снизу */
+	border-radius: 5px; /* Закруглённые углы */
+	box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; /* Тень блока */
+}
+
